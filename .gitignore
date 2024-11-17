@@ -1,0 +1,6 @@
+# Temporary files
+*.tmp
+
+# Editor-specific directories
+.vscode/
+.DS_Store
